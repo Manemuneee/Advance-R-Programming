@@ -1,0 +1,3 @@
+
+
+reduced and recursive functions run in shorter time for smaller numbers while memoization is faster for bigger numbers. and the loop works with a constant and relatively slower pace.
